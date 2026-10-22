@@ -1,4 +1,4 @@
-basically it downloads every picture from a tiktok profile and also downloads the videos and then converts the videos to photos. but it smartly picks different frames from the video instead of getting every frame. i did this to get every frame i could from a book diy profile. then i abandoned it when i realized the acc literally uploaded the entire book in a playlist.
+half vibecoded. basically it downloads every picture from a tiktok profile and also downloads the videos and then converts the videos to photos. but it smartly picks different frames from the video instead of getting every frame. i did this to get every frame i could from a book diy profile. then i abandoned it when i realized the acc literally uploaded the entire book in a playlist.
 
 the script also has an optional thingy to resize pictures a bit so its not extremely heavy, that was so i could make gemini scan the badly scanned images and rewrite the book for me.
 
